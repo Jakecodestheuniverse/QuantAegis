@@ -1,4 +1,4 @@
-# Contributing to [PROJECT_NAME]
+# Contributing to QuantAegis
 
 Thank you for your interest in contributing. This project targets production use in regulated financial environments — that means we hold contributions to a high standard of quality, clarity, and safety. Please read this guide before opening a PR.
 
@@ -44,9 +44,9 @@ We actively welcome contributors with backgrounds in:
 ### 1. Fork & Clone
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/[PROJECT_NAME].git
-cd [PROJECT_NAME]
-git remote add upstream https://github.com/[ORIGINAL_ORG]/[PROJECT_NAME].git
+git clone https://github.com/YOUR_USERNAME/QuantAegis.git
+cd QuantAegis
+git remote add upstream https://github.com/Jakecodestheuniverse/QuantAegis.git
 ```
 
 ### 2. Set Up Environment
