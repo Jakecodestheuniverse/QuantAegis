@@ -1,6 +1,6 @@
 # Competitor Analysis — Open-Source AI in Finance
 
-> **[PROJECT_NAME] Strategic Positioning Document**
+> **QuantAegis Strategic Positioning Document**
 > Last Updated: April 2026 | Reviewed Quarterly
 
 ---
@@ -9,7 +9,7 @@
 
 The open-source AI-in-finance landscape has matured rapidly. What was once a handful of academic repositories is now a competitive ecosystem attracting serious investment and talent. However, a critical examination of the top projects reveals a consistent and exploitable **structural gap**: every leading project optimizes for research power or developer convenience, and none have been built for the governance, explainability, and compliance demands of Tier 1 financial institutions.
 
-This document profiles the five most impactful open-source AI finance projects of the past 12 months, surfaces their limitations, and defines the strategic white space where [PROJECT_NAME] operates.
+This document profiles the five most impactful open-source AI finance projects of the past 12 months, surfaces their limitations, and defines the strategic white space where QuantAegis operates.
 
 ---
 
@@ -226,7 +226,7 @@ TradingAgents simulates the organizational structure of a real trading firm usin
 | FinRobot | 2 | 4 | 3 | 8 | 5 | 6 | 4.5 |
 | OpenBB | 2 | 1 | 5 | 4 | 10 | 8 | 4.8 |
 | TradingAgents | 1 | 3 | 2 | 7 | 4 | 6 | 3.6 |
-| **[PROJECT_NAME] (Target)** | **9** | **9** | **8** | **7** | **6** | **6** | **8.3** |
+| **QuantAegis (Target)** | **9** | **9** | **8** | **7** | **6** | **6** | **8.3** |
 
 ---
 
@@ -248,7 +248,7 @@ OpenBB is genuinely excellent at what it does. But it surfaces data; it does not
                         HIGH COMPLIANCE
                               │
                               │
-              [PROJECT_NAME]  │
+              QuantAegis  │
                     ★         │
                               │
 LOW RESEARCH          ────────┼────────        HIGH RESEARCH
@@ -262,11 +262,11 @@ SOPHISTICATION                │           SOPHISTICATION
                         LOW COMPLIANCE
 ```
 
-The top-right quadrant — **high AI research sophistication AND high compliance** — is unoccupied. That is [PROJECT_NAME]'s territory.
+The top-right quadrant — **high AI research sophistication AND high compliance** — is unoccupied. That is QuantAegis's territory.
 
-### Specific Gaps [PROJECT_NAME] Fills
+### Specific Gaps QuantAegis Fills
 
-| Gap | Market Evidence | [PROJECT_NAME] Response |
+| Gap | Market Evidence | QuantAegis Response |
 |---|---|---|
 | **No regulatory-grade audit trail** | Every competitor produces outputs with no structured decision lineage | Immutable `AuditEvent` schema with regulatory tags on every agent action |
 | **No compliance rule engine** | Firms must build compliance checks on top of every existing framework | Built-in versioned rule registry with MiFID II, SEC, Basel III rule sets |
@@ -282,9 +282,9 @@ The top-right quadrant — **high AI research sophistication AND high compliance
 ## Opportunities to Monitor
 
 - **Bloomberg-GPT** (proprietary): Bloomberg is investing heavily in LLMs. If they open-source components, the landscape shifts significantly.
-- **FINOS** (Fintech Open Source Foundation): FINOS is building AI governance frameworks for financial services. Partnership or alignment with FINOS standards could accelerate [PROJECT_NAME]'s institutional credibility.
+- **FINOS** (Fintech Open Source Foundation): FINOS is building AI governance frameworks for financial services. Partnership or alignment with FINOS standards could accelerate QuantAegis's institutional credibility.
 - **Regulatory AI frameworks**: The EU AI Act and SEC's model risk guidance are evolving. Projects that align with emerging standards early will have a compounding advantage.
-- **LangChain / LlamaIndex**: These general-purpose agent frameworks are growing into finance use cases. [PROJECT_NAME] should provide compatibility adapters rather than compete head-on.
+- **LangChain / LlamaIndex**: These general-purpose agent frameworks are growing into finance use cases. QuantAegis should provide compatibility adapters rather than compete head-on.
 
 ---
 
@@ -292,17 +292,17 @@ The top-right quadrant — **high AI research sophistication AND high compliance
 
 1. **Lead with compliance** — the technical features are compelling, but financial institution decision-makers are driven by risk reduction. Every demo, pitch, and README should lead with the compliance and audit story.
 
-2. **Pursue FINOS alignment** — submit [PROJECT_NAME] to the FINOS landscape and align with FINOS AI governance standards. This provides instant institutional credibility.
+2. **Pursue FINOS alignment** — submit QuantAegis to the FINOS landscape and align with FINOS AI governance standards. This provides instant institutional credibility.
 
 3. **Apache 2.0 is a strategic moat** — OpenBB's AGPLv3 has locked out much of the enterprise market. Emphasize Apache 2.0 explicitly in every comparison and in the README.
 
-4. **Partner with, not compete against, OpenBB** — build an official OpenBB data connector. OpenBB has the data; [PROJECT_NAME] has the intelligence and compliance layer. This is complementary, not competitive.
+4. **Partner with, not compete against, OpenBB** — build an official OpenBB data connector. OpenBB has the data; QuantAegis has the intelligence and compliance layer. This is complementary, not competitive.
 
-5. **Target the compliance officer, not just the quant** — existing projects speak to quants. [PROJECT_NAME] should speak to the Chief Compliance Officer and the Chief Risk Officer. These are the people who can unlock enterprise adoption.
+5. **Target the compliance officer, not just the quant** — existing projects speak to quants. QuantAegis should speak to the Chief Compliance Officer and the Chief Risk Officer. These are the people who can unlock enterprise adoption.
 
 6. **Publish a "production deployment guide for regulated environments"** — no competitor has this. A single well-written document aimed at a bank's technology + compliance joint review would be a unique and highly shareable artifact.
 
-7. **Consider contributing compliance modules to FinRobot/FinGPT** — a counterintuitive move that builds community goodwill and positions [PROJECT_NAME] as the compliance standard-bearer for the entire ecosystem.
+7. **Consider contributing compliance modules to FinRobot/FinGPT** — a counterintuitive move that builds community goodwill and positions QuantAegis as the compliance standard-bearer for the entire ecosystem.
 
 ---
 
