@@ -2,7 +2,7 @@
 
 ## Our Commitment
 
-[PROJECT_NAME] is designed for use in financial institutions where security is non-negotiable. We take vulnerability reports seriously and commit to responding quickly and transparently.
+QuantAegis is designed for use in financial institutions where security is non-negotiable. We take vulnerability reports seriously and commit to responding quickly and transparently.
 
 ---
 
@@ -24,7 +24,7 @@
 Report vulnerabilities via one of these channels:
 
 1. **GitHub Private Security Advisory** (preferred): Use the "Report a Vulnerability" button on our GitHub Security tab
-2. **Email**: security@[YOUR_DOMAIN] — PGP key available at [link]
+2. **Email**: security@quantaegis.dev — PGP key available at [link]
 
 ### What to Include
 
