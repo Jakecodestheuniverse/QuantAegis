@@ -1,8 +1,8 @@
 # Architecture
 
-> **[PROJECT_NAME] — System Design & Technical Decisions**
+> **QuantAegis — System Design & Technical Decisions**
 
-This document describes the high-level architecture, design philosophy, and key technical decisions behind [PROJECT_NAME]. It is intended for contributors, enterprise evaluators, and anyone doing a technical assessment of the system.
+This document describes the high-level architecture, design philosophy, and key technical decisions behind QuantAegis. It is intended for contributors, enterprise evaluators, and anyone doing a technical assessment of the system.
 
 ---
 
@@ -87,7 +87,7 @@ Agents are stateless by design — all state is externalized to the memory and d
 
 ### 3. Audit & Explainability Layer
 
-This is [PROJECT_NAME]'s primary differentiator. Every agent action emits a structured **AuditEvent**:
+This is QuantAegis's primary differentiator. Every agent action emits a structured **AuditEvent**:
 
 ```python
 class AuditEvent(BaseModel):
@@ -171,7 +171,7 @@ Helm charts and Terraform modules are provided in `deploy/`.
 
 ---
 
-## What [PROJECT_NAME] Is NOT
+## What QuantAegis Is NOT
 
 - **Not a trading system** — outputs are analytical; execution is your responsibility
 - **Not financial advice** — all outputs are labeled as analytical tools and must be reviewed by qualified humans
