@@ -1,10 +1,10 @@
 # Roadmap
 
-> **[PROJECT_NAME] — Strategic Development Plan**
+> **QuantAegis — Strategic Development Plan**
 
 This roadmap reflects our current intentions. It will evolve based on community feedback, regulatory developments, and the needs of financial institutions. Items are not guarantees — they represent direction.
 
-Follow progress in [GitHub Milestones](https://github.com/[YOUR_ORG]/[PROJECT_NAME]/milestones) and [GitHub Projects](https://github.com/[YOUR_ORG]/[PROJECT_NAME]/projects).
+Follow progress in [GitHub Milestones](https://github.com/Jakecodestheuniverse/QuantAegis/milestones) and [GitHub Projects](https://github.com/Jakecodestheuniverse/QuantAegis/projects).
 
 ---
 
@@ -41,7 +41,7 @@ Every version milestone advances one or more of these themes:
 
 ## v0.2 — Compliance Layer *(Target: Q4 2026)*
 
-> First-class regulatory compliance. This is where [PROJECT_NAME] begins to differentiate.
+> First-class regulatory compliance. This is where QuantAegis begins to differentiate.
 
 - [ ] 🔒 Compliance Rule Engine with versioned rule registry (YAML DSL)
 - [ ] 🔒 Built-in rule sets for MiFID II, SEC 15a-6, and Basel III basics
@@ -86,7 +86,7 @@ Every version milestone advances one or more of these themes:
 - [ ] 🌐 Connector SDK — documented interface for building proprietary data connectors
 - [ ] 🌐 Integrations: Snowflake, Databricks, Apache Iceberg
 - [ ] 🏢 REST API + OpenAPI spec — expose all agent capabilities via HTTP
-- [ ] 🏢 Python SDK — typed client library for embedding [PROJECT_NAME] in existing workflows
+- [ ] 🏢 Python SDK — typed client library for embedding QuantAegis in existing workflows
 - [ ] 🏗️ Plugin system — hot-load agents and connectors without restarting
 - [ ] 🌐 LangChain / LlamaIndex compatibility layer (for teams already using these)
 
