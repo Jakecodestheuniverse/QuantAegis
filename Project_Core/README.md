@@ -1,4 +1,4 @@
-# [PROJECT_NAME]
+# QuantAegis
 
 > **Enterprise-Grade, Compliance-Aware AI for Financial Institutions**
 
@@ -15,7 +15,7 @@ The open-source AI-in-finance landscape has exploded with powerful tools — but
 
 Projects like FinGPT and FinRL are research-first. OpenBB is data infrastructure. TradingAgents is experimental. None provide the unified, explainable, audit-ready AI layer that Goldman Sachs, BlackRock, or JPMorgan can actually deploy in production.
 
-**[PROJECT_NAME]** fills that gap. It is an open-source framework purpose-built for:
+**QuantAegis** fills that gap. It is an open-source framework purpose-built for:
 
 - ✅ **Regulatory Compliance** — SOC 2, MiFID II, SEC/FINRA-aligned audit trails out of the box
 - ✅ **Explainable AI (XAI)** — Every model decision is traceable, annotated, and human-readable
@@ -42,8 +42,8 @@ Projects like FinGPT and FinRL are research-first. OpenBB is data infrastructure
 
 ```bash
 # Clone the repository
-git clone https://github.com/[YOUR_GITHUB_USERNAME]/[PROJECT_NAME].git
-cd [PROJECT_NAME]
+git clone https://github.com/Jakecodestheuniverse/QuantAegis.git
+cd QuantAegis
 
 # Install dependencies
 pip install -e ".[dev]"
