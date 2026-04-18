@@ -4,7 +4,7 @@
 
 We are building tools for an industry where integrity is a legal requirement, not just a value. The same standard applies to this community.
 
-We as contributors, maintainers, and participants pledge to make participation in [PROJECT_NAME] a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socioeconomic status, nationality, personal appearance, race, caste, color, religion, or sexual identity and orientation.
+We as contributors, maintainers, and participants pledge to make participation in QuantAegis a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socioeconomic status, nationality, personal appearance, race, caste, color, religion, or sexual identity and orientation.
 
 We pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community.
 
@@ -62,7 +62,7 @@ This Code of Conduct applies within all project spaces, and also when an individ
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the project maintainers at: conduct@[YOUR_DOMAIN]
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the project maintainers at: conduct@quantaegis.dev
 
 All complaints will be reviewed and investigated promptly and fairly. All maintainers are obligated to respect the privacy and security of the reporter.
 
